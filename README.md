@@ -11,14 +11,14 @@
 <p align="center">
     <img src="Screenshots/Add-1.png" alt="Add-1" width="270" height="585">
     <img src="Screenshots/Add-2.png" alt="Add-2" width="270" height="585">
-   <img src="Screenshots/Added.png" alt="Added" width="270" height="585">
+    <img src="Screenshots/Added.png" alt="Added" width="270" height="585">
 </p>
 ### Update
 ### Output Screenshots
 <p align="center">
     <img src="Screenshots/Update-1.png" alt="Update-1" width="270" height="585">
     <img src="Screenshots/Update-2.png" alt="Update-2" width="270" height="585">
-   <img src="Screenshots/Updated.png" alt="Updated" width="270" height="585">
+    <img src="Screenshots/Updated.png" alt="Updated" width="270" height="585">
 </p>
 ### Delete
 ### Output Screenshots
