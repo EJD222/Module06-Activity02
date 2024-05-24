@@ -2,10 +2,8 @@
 
     Name of Student: Elmalia Jane S. Diaz
     Year and Section: BSIT3A
-    Activity Title: Module 07 - Exercise 01
+    Activity Title: Module 06 - Activity 02
     Date Submitted: May 24, 2024
-    
-## CRUD
 
 ## Add
 ### Output Screenshots
